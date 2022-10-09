@@ -1,0 +1,5 @@
+# primer repositorio en git 
+
+##primeros comandos 
+
+git clone    
